@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://aoinohi.github.io</id>
+    <title>AOI-STOP</title>
+    <updated>2023-03-03T13:33:39.830Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://aoinohi.github.io"/>
+    <link rel="self" href="https://aoinohi.github.io/atom.xml"/>
+    <subtitle>欢迎来到我的STOP,请随意看看!</subtitle>
+    <logo>https://aoinohi.github.io/images/avatar.png</logo>
+    <icon>https://aoinohi.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, AOI-STOP</rights>
+    <entry>
+        <title type="html"><![CDATA[这是一篇测试用文章]]></title>
+        <id>https://aoinohi.github.io/post/ce-shi/</id>
+        <link href="https://aoinohi.github.io/post/ce-shi/">
+        </link>
+        <updated>2023-02-25T14:59:56.000Z</updated>
+        <content type="html"><![CDATA[<p>前言文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字.</p>
+<p class="mulu">目录</p>
+<ul class="mulu-ul">
+<li><a href="#目录一目录一目录一目录一目录一" class="">目录一目录一目录一目录一目录一</a></li>
+<li><a href="#目录二目录二目录二目录二目录二" class="">目录二目录二目录二目录二目录二目录二目录二</a>
+<ul><li><a href="#目录二目录二目录二目录二目录二" class="">文字文字文字文字</a></li>
+<li><a href="#目录二目录二目录二目录二目录二" class="">文字文字文字BLACK</a></li>
+<li><a href="#目录二目录二目录二目录二目录二" class="">文字、文字(文字)</a></li></ul></li>
+<li><a href="#目录二目录二目录二目录二目录二" class="">目录三目录三目录三目录三目录三</a>
+<ul><li><a href="#目录二目录二目录二目录二目录二" class="">文字文字文字文字</a></li>
+<li><a href="#目录二目录二目录二目录二目录二" class="">文字</a></li></ul></li>
+<li><a href="#目录二目录二目录二目录二目录二" class="">目录四目录四目录四目录四目录四</a></li>
+<li><a href="#目录二目录二目录二目录二目录二" class="">目录五目录五目录五目录五</a></li>
+<li><a href="#目录二目录二目录二目录二目录二" class="">文字文字文字文字文字</a></li>
+</ul>
+<hr>
+<p><a href="#lable"  style="text-decoration:none" >点击跳转到下面</a><br>
+内容  文字 文字<br>
+内容  文字 文字<br>
+内容  文字 文字<br>
+内容  文字 文字<br>
+内容  文字 文字<hr><br>
+内容  文字 文字<br>
+内容  文字 文字<br>
+内容  文字 文字<br>
+内容  文字 文字<br>
+内容  文字 文字<br>
+内容  文字 文字<img src="https://aoinohi.github.io/post-images/1677384764766.jpg" alt="" loading="lazy"><p class="imgtext" >内容  文字 文字</p><br>
+内容  文字 文字<br>
+内容  文字 文字<br>
+内容  文字 文字<br>
+内容  文字 文字<br>
+内容  文字 文字</p>
+<p>......<br>
+......<br>
+......<br>
+......<br>
+......<br>
+<span id="lable">到下面了</span></p>
+<hr>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何创建一个博客]]></title>
+        <id>https://aoinohi.github.io/post/tem/</id>
+        <link href="https://aoinohi.github.io/post/tem/">
+        </link>
+        <updated>2023-02-25T09:24:45.000Z</updated>
+        <content type="html"><![CDATA[<p>你来早了,我也正在学习呢!</p>
+]]></content>
+    </entry>
+</feed>
